@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: For collaborative projects, to keep remote backups, to host websites, and to share projects with other people.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Healthcare, where you have to manage clients, their individual needs, and their healthcare plans.
+
