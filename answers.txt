@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves history of the commits that were merged, while rebase removes commits to keep history in a straight line.
 
+Q4: What are you looking forward to this semester?
+
+Answer: SQL, Pandas, and all the Python.
